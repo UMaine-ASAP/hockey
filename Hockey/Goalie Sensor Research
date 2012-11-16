@@ -1,0 +1,44 @@
+Goalie Sensor Research
+
+Primary Keys to a Successful Goalie
+
+1.  "Quiet Eye" - Quiet Eye is a technique seen in many professional athletes where they are able to focus their attention on an object of interest (ex. a puck) steadily.
+Links:
+http://edition.cnn.com/2005/TECH/03/21/spark.quiet.eye/index.html
+http://www.sciencedaily.com/releases/2010/07/100712115056.htm
+Perception, Cognition, and Decision Training: The Quiet Eye in Action by Joan Vickers)
+
+2. Excellent Reaction Time
+Links:
+http://www.nbclearn.com/nhl/cuecard/56600 (Reflexes and Reaction Time)
+
+3. Technique - Skating, stick handling, body placement, etc. 
+Links:
+http://www.youthhockeyreview.com/2010/11/27/practice-tips-for-young-hockey-goalies/ (Types of skating techniques at the bottom)
+http://www.goaliecrease.net/content/356-stickhandling-basics-goaltenders.html
+
+ANALYSIS - Based on preliminary research, the first two keys (Quiet Eye and Reaction Time) seem to improve through (lots of) practice.  The sensors that would be necessary to actively track these keys would be bulky and expensive (ex. helmet-mounted cameras trained on the goaltenders eyes) and even if they were tracked, it seems the only real way to improve them would be (as I said above) to practice a lot.  There is an exception, though, with Excellent Reaction Time.  From what I've seen, if you could track when the puck was shot, where it was shot from, and how quickly the goalie reacted to it, you may be able to see side (left or right) preference or some other phenomenon that could result in more customized practices.
+
+Overall, I think the best use of the sensors is going to be analyzing a players technical skills.  A cheap sensor-enabled glove/pad is applicable to all audiences of this eventual product and it is much more realistic in terms of development than a widely distributed helmet-mounted camera.
+
+=======================================================================================================
+
+Basics of Goalie Movement - http://mtngoaltending.wordpress.com/2010/12/30/the-basics-of-down-goalie-movement/
+
+Questions that sensors could help answer:
+	1.  Is the goalie pushing off the ice with his full skate or just the toe?
+	2.  Is the stick being held loosely or tightly?
+	3.  How fast are limbs moving (in relation to the puck being shot)?
+	4.  How is the upper body moving in relation to the lower? (According to this site, the two should be somewhat independent)
+	5.  How is the head moving (in relation to the puck)?
+
+Online Goalie School (with videos!) - http://www.elkingoaltending.com/instructional-videos.html
+
+	Notes:
+	Based on both reading and these videos, a portion of determining how well the goalie is performing is relative to the shot on net (really ties back to reaction time).  The question that comes from this observation is whether there is some sort of player-goalie or puck-goalie combination of sensors that can be tied together to measure reaction time or if analyzing videos are the only reasonable option.
+
+USA Hockey Goaltending - http://www.usahockey.com/Drills.aspx
+
+	Notes:
+	Lots of drills with textual descriptions, some with videos as well
+	Could use this to frame the search for sensors in the context of what drills goalie coaches are already teaching.
